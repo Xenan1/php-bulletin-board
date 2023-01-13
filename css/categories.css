@@ -1,0 +1,17 @@
+.page__main {
+    flex: 1 0 auto;
+    vertical-align: top;
+}
+.main__category-list {
+    list-style-type: none;
+    gap: 20px;
+    place-self: flex-start;
+}
+.main__category-link {
+    text-decoration: none;
+    color: black;
+    transition: 0.3s;
+}
+.main__category-link:hover {
+    font-size: 110%;
+}

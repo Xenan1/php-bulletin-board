@@ -1,0 +1,5 @@
+# ⊗ppPmSDPrm №1
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_URI} !\.(js|css|ico|png|jpg|gif)$
+RewriteRule .+ index.php

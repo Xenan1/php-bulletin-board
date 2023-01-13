@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color:antiquewhite;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.page__main {
+    padding: 20px;
+    flex: 1 0 auto;
+}

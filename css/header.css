@@ -1,0 +1,6 @@
+.page__header {
+    height: 80px;
+    vertical-align: middle;
+    padding: 20px;
+    flex: 0 0 auto;
+}
